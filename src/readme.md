@@ -1,0 +1,7 @@
+=ifte(F46>2.54,"ifte","No")
+=ifte(F47>2.54,"ifte","No")
+=ifte(F48>2.54,"ifte","No")
+=ifte(F49>2.54,"ifte","No")
+=ifte(F50>2.54,"ifte","No")
+=ifte(F51>2.54,"ifte","No")
+=ifte(F52>2.54,"ifte","No")
